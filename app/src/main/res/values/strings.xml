@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Auto Compleet</string>
+    <string name="select">Select Products</string>
+    <string-array name="Product_Names">
+        <item> HP injet printer</item>
+        <item> Samsung printer</item>
+        <item> TOSHIBA</item>
+    </string-array>
+</resources>
